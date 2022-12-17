@@ -1,7 +1,7 @@
-import React from "react";
+import React, { Component } from "react";
 import "./App.css";
 import { useState } from "react";
-
+import ReactCardFlip from "./Flipcard";
 function App() {
   const [card, setCard] = useState({ text: "", summary: "" });
 
@@ -50,7 +50,6 @@ function App() {
             setCard({ text: e.target.value });
           }}
         ></textarea>
-
         <button onClick={dowhenclicked}>Submit</button>
       </div>
 
