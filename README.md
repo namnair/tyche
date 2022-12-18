@@ -8,7 +8,7 @@ In this very necessary app for students and others, the passage that you require
 
 
 ```http
-  GET /api/items "https://api-inference.huggingface.co/models/sshleifer/distilbart-cnn-12-6"
+  GET /api/items "https://api-inference.huggingface.co/models/sshleifer/distilbart-cnn-12-6"```
 
 
 ## Tech Stack
