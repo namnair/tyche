@@ -64,7 +64,7 @@ function App() {
           className="btn btn-danger"
           onClick={dowhenclicked}
         >
-          Submit
+          get summary
         </button>
       </div>
       <div className="flashcard-container">
