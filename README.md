@@ -14,7 +14,7 @@ http
 
 ## Tech Stack
 
-React, CSS, javascri
+React, CSS, javascript
 
 
 
